@@ -17,6 +17,7 @@ public class Prueba1 {
     public static void main(String[] args) {
         System.out.println("hola mundo");
         //hol mundooo
+        System.out.println("PRUEBA PARA VER SI FUNCIONA LOS COMANDOS");
     }
     
 }
