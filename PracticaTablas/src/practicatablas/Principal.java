@@ -180,6 +180,7 @@ public class Principal extends javax.swing.JFrame {
 
     private void txtNombreActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtNombreActionPerformed
         // TODO add your handling code here:
+        //PRUEBA DE LINEA
     }//GEN-LAST:event_txtNombreActionPerformed
 
     /**
