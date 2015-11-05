@@ -18,6 +18,8 @@ public class Prueba1 {
         System.out.println("hola mundo");
         //hol mundooo
         System.out.println("PRUEBA PARA VER SI FUNCIONA LOS COMANDOS");
+        System.out.println("PRUEBA PARA VER SI FUNCIONA LOS COMANDOS");
+        System.out.println("PRUEBA PARA VER SI FUNCIONA LOS COMANDOS");
     }
     
 }
